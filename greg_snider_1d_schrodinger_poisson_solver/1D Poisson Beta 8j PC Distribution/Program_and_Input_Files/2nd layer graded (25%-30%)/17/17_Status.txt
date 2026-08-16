@@ -1,0 +1,39 @@
+Number of iterations to converge = 30
+Final correction to bands = 7.528e-006 eV
+Maximum error in poisson equation= 1.005e-005
+Don't worry, be happy! The convergence is good!
+
+Structure Sheet Resistance = 1.250e+003 Ohms/square
+
+Layer sheet concentrations
+
+surface            schottky
+-----------------------------------------------------------------------------------------
+ 10.0 Ang	GaN	ns= 0.000e+000 cm-2,	ps= 0.000e+000 cm-2
+-----------------------------------------------------------------------------------------
+170.0 Ang	AlGaN	ns= 1.571e+001 cm-2,	ps= 1.700e-016 cm-2
+-----------------------------------------------------------------------------------------
+ 80.0 Ang	AlGaN	ns= 1.847e+011 cm-2,	ps= 8.000e-017 cm-2
+-----------------------------------------------------------------------------------------
+5000.0 Ang	GaN	ns= 1.230e+013 cm-2,	ps= 5.000e-015 cm-2
+-----------------------------------------------------------------------------------------
+substrate            slope=0
+
+Temperature = 300.0 K
+
+Schrodinger solution from 2.000e+001 Ang to 1.000e+003 Ang.
+
+The following subband energies were found (E-Ef):
+
+Electron eigenvalue 1 = -1.263428e-001 eV
+Electron eigenvalue 2 = 4.263175e-003 eV
+Electron eigenvalue 3 = 5.168061e-002 eV
+Electron eigenvalue 4 = 7.767740e-002 eV
+Electron eigenvalue 5 = 9.530677e-002 eV
+Electron eigenvalue 6 = 1.085784e-001 eV
+Electron eigenvalue 7 = 1.191945e-001 eV
+Electron eigenvalue 8 = 1.280275e-001 eV
+Electron eigenvalue 9 = 1.355822e-001 eV
+Electron eigenvalue 10 = 1.421788e-001 eV
+Electron eigenvalue 11 = 1.480847e-001 eV
+Electron eigenvalue 12 = 1.537940e-001 eV

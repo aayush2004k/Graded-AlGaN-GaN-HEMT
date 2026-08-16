@@ -1,0 +1,48 @@
+Number of iterations to converge = 27
+Final correction to bands = 6.926e-006 eV
+Maximum error in poisson equation= 2.307e-004
+Don't worry, be happy! The convergence is good!
+
+Structure Sheet Resistance = 4.763e+003 Ohms/square
+
+Layer sheet concentrations
+
+surface            schottky
+-----------------------------------------------------------------------------------------
+ 10.0 Ang	GaN	ns= 0.000e+000 cm-2,	ps= 0.000e+000 cm-2
+-----------------------------------------------------------------------------------------
+ 50.0 Ang	AlGaN	ns= 2.178e+005 cm-2,	ps= 5.000e-017 cm-2
+-----------------------------------------------------------------------------------------
+ 50.0 Ang	AlGaN	ns= 1.290e+010 cm-2,	ps= 5.000e-017 cm-2
+-----------------------------------------------------------------------------------------
+ 50.0 Ang	AlGaN	ns= 5.344e+011 cm-2,	ps= 5.000e-017 cm-2
+-----------------------------------------------------------------------------------------
+ 50.0 Ang	AlGaN	ns= 1.098e+012 cm-2,	ps= 5.000e-017 cm-2
+-----------------------------------------------------------------------------------------
+ 50.0 Ang	AlGaN	ns= 8.848e+011 cm-2,	ps= 5.000e-017 cm-2
+-----------------------------------------------------------------------------------------
+5000.0 Ang	GaN	ns= 7.456e+011 cm-2,	ps= 5.000e-015 cm-2
+-----------------------------------------------------------------------------------------
+substrate            slope=0
+
+Temperature = 300.0 K
+
+Schrodinger solution from 2.000e+001 Ang to 1.000e+003 Ang.
+
+The following subband energies were found (E-Ef):
+
+Electron eigenvalue 1 = 1.061460e-003 eV
+Electron eigenvalue 2 = 2.111029e-002 eV
+Electron eigenvalue 3 = 4.118823e-002 eV
+Electron eigenvalue 4 = 5.235138e-002 eV
+Electron eigenvalue 5 = 7.362996e-002 eV
+Electron eigenvalue 6 = 9.166258e-002 eV
+Electron eigenvalue 7 = 1.045838e-001 eV
+Electron eigenvalue 8 = 1.144997e-001 eV
+Electron eigenvalue 9 = 1.228027e-001 eV
+Electron eigenvalue 10 = 1.302188e-001 eV
+Electron eigenvalue 11 = 1.369210e-001 eV
+Electron eigenvalue 12 = 1.429584e-001 eV
+Electron eigenvalue 13 = 1.484061e-001 eV
+Electron eigenvalue 14 = 1.533955e-001 eV
+Electron eigenvalue 15 = 1.582500e-001 eV
