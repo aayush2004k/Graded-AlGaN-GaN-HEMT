@@ -67,7 +67,7 @@ The `Program_and_Input_Files` folder contains multiple sub-folders, each corresp
 
 ## Author
 
-Aayush — Electrical Engineering, IIT Bombay
+Aayush Kakadiya — Electrical Engineering, IIT Bombay
 
 ### Acknowledgements
 - Gregory Snider (University of Notre Dame) for the 1D Poisson/Schrödinger solver.
