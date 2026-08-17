@@ -69,6 +69,6 @@ The `Program_and_Input_Files` folder contains multiple sub-folders, each corresp
 
 Aayush — Electrical Engineering, IIT Bombay
 
-# Acknowledgements
+### Acknowledgements
 - Gregory Snider (University of Notre Dame) for the 1D Poisson/Schrödinger solver.
 - Chang & Chu (1990) reference paper for delta-doping model validation.
